@@ -10,18 +10,18 @@ refers to ensuring that what's displayed accurately reflects what's in the data 
 4.visualizing interrelationships
 5.standardization of visualization tools
  
-###Good Visualization requirements                                  
+### Good Visualization requirements                                  
 1.Define the data variables precisely.                             
 2.consistency 									 
 3.Keep visual "noise" out of your visualizations.			 
 4.Include information about the data's provenance.
 
  			  
-###Reasons for Bad visualization
-The numbers Doesn't Add Up
-Cropped Axes 
-Not Following the Rules
-Annotations Aren't Used
+### Reasons for Bad visualization
+1.The numbers Doesn't Add Up
+2.Cropped Axes 
+3.Not Following the Rules
+4.Annotations Aren't Used
 
 ### a) example of visualization distortion
 the link for accesing the image is [image of visualization distortion](https://learningsolutionsmag.com/sites/default/files/inline-images/7441_Figure2.png)
@@ -33,18 +33,18 @@ Graphing various variables on different scales or starting the Y axis at a non-z
 When you offer the full picture, it can be difficult to pick out important data or stories. It's difficult to focus on any one data point or trend because of the sheer amount of lines.
 If the designer wants to hide some terrible news, burying it beneath a vast amount of data could do the trick—but it also renders the visualization useless.
 
-#solution:
+# solution:
 Whenever users require both a massive and a detailed presentation, a range of data visualizations should be considered. With massive data stories, news organizations frequently achieve
 this by displaying a national map with broad depictions of data by region or state, followed by a succession of more concentrated visualizations that indicate significant patterns, 
 outliers, or other data.
 
-###b) example of misleading interpretation
+### b) example of misleading interpretation
 the link for accesing the image is [image od misleading data interpretation](https://rigorousthemescom-ebizon.netdna-ssl.com/blog/wp-content/uploads/2021/03/screely-1614678833202.png)
 In politics, data manipulation is frequently used to make a group or individual appear better than they are. One visualization tool that can help with this is the pie chart.
 from the pie chart we can observe that the total percentage of voters is greater than 100 percent which misleads the viewers .The tough part is presenting this on a pie chart,
 which is designed to depict proportions of a whole where each group is different.A pie chart will make it appear as if a large number of voters have solely picked that candidate.
 
-#solution:
+# solution:
 A Venn diagram is the best option if you want to appropriately portray such data using a visualization element like a pie chart. The Venn diagram will illustrate how many votes
 each candidate received and where they overlapped in the voting process.
 
