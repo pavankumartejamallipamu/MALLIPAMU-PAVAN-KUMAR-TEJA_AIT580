@@ -12,7 +12,7 @@ data <- read.csv("D://AIT580//AIT580//data//EmployeeAttrition.csv")
 #FOR HISTOGRAM
 ggplot(data, aes(x=Age,fill=Gender,color="black")) + 
   geom_histogram()
-
+# for histogram to visualize just press zoom option once
 
 #FOR SCATTER PLOT
 x<-data$Age

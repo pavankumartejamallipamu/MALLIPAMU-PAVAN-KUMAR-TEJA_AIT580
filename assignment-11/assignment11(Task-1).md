@@ -1,6 +1,8 @@
 # Visualization
 Visual integrity is required for visualizations to ensure that the data they provide can be appropriately interpreted. Visual integrity, also known as graphical integrity,
 refers to ensuring that what's displayed accurately reflects what's in the data being represented, and that no design decisions distort or obscure the facts and analytical findings.
+
+
 ### Big data Visualization Challenges
 1.Velocity :Visualiztion in real time
 2.demonstrating complexity and depth
@@ -8,11 +10,18 @@ refers to ensuring that what's displayed accurately reflects what's in the data 
 4.visualizing interrelationships
 5.standardization of visualization tools
  
-###Good Visualization requirements                                  ###Reasons for Bad visualization
-1.Define the data variables precisely.                              The numbers Doesn't Add Up
-2.consistency 									  Cropped Axes 
-3.Keep visual "noise" out of your visualizations.			  Not Following the Rules
-4.Include information about the data's provenance. 			  Annotations Aren't Used
+###Good Visualization requirements                                  
+1.Define the data variables precisely.                             
+2.consistency 									 
+3.Keep visual "noise" out of your visualizations.			 
+4.Include information about the data's provenance.
+
+ 			  
+###Reasons for Bad visualization
+The numbers Doesn't Add Up
+Cropped Axes 
+Not Following the Rules
+Annotations Aren't Used
 
 ### a) example of visualization distortion
 the link for accesing the image is [image of visualization distortion](https://learningsolutionsmag.com/sites/default/files/inline-images/7441_Figure2.png)
@@ -23,7 +32,8 @@ comprehend the data. Although some data presentations distort the data in ways t
 Graphing various variables on different scales or starting the Y axis at a non-zero position, for example, can de-emphasize variations in values.
 When you offer the full picture, it can be difficult to pick out important data or stories. It's difficult to focus on any one data point or trend because of the sheer amount of lines.
 If the designer wants to hide some terrible news, burying it beneath a vast amount of data could do the trick—but it also renders the visualization useless.
-solution:
+
+#solution:
 Whenever users require both a massive and a detailed presentation, a range of data visualizations should be considered. With massive data stories, news organizations frequently achieve
 this by displaying a national map with broad depictions of data by region or state, followed by a succession of more concentrated visualizations that indicate significant patterns, 
 outliers, or other data.
@@ -33,7 +43,8 @@ the link for accesing the image is [image od misleading data interpretation](htt
 In politics, data manipulation is frequently used to make a group or individual appear better than they are. One visualization tool that can help with this is the pie chart.
 from the pie chart we can observe that the total percentage of voters is greater than 100 percent which misleads the viewers .The tough part is presenting this on a pie chart,
 which is designed to depict proportions of a whole where each group is different.A pie chart will make it appear as if a large number of voters have solely picked that candidate.
-solution:
+
+#solution:
 A Venn diagram is the best option if you want to appropriately portray such data using a visualization element like a pie chart. The Venn diagram will illustrate how many votes
 each candidate received and where they overlapped in the voting process.
 
