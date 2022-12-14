@@ -7,7 +7,6 @@ layout: default
 # Local Data For Better Health
 
 ## Team Members
-* *Esther Tanvi Marlapudi- G01337846*
 * *Mallipamu Pavan kumar teja- G01354177*
 
 ## Brief Introduction 
